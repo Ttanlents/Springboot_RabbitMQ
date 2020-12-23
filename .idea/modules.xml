@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_Routing_Direct/springboot_Routing_Direct.iml" filepath="$PROJECT_DIR$/springboot_Routing_Direct/springboot_Routing_Direct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_pubsub_fanout/springboot_pubsub_fanout.iml" filepath="$PROJECT_DIR$/springboot_pubsub_fanout/springboot_pubsub_fanout.iml" />
+    </modules>
+  </component>
+</project>

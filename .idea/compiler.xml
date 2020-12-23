@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_header" />
+        <module name="springboot_pubsub_fanout" />
+        <module name="Springboot_RabbitMQ" />
+        <module name="springboot_Routing_Direct" />
+        <module name="springboot_topic" />
+        <module name="springboot_work_simple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot_pubsub_fanout" target="1.8" />
+      <module name="springboot_Routing_Direct" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
